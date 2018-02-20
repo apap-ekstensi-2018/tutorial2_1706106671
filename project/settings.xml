@@ -1,0 +1,11 @@
+<settings>
+  <proxies>
+   <proxy>
+      <active>true</active>
+      <protocol>http</protocol>
+      <host>proxy.cs.ui.ac.id</host>
+      <port>8080</port>
+      <nonProxyHosts>localhost|127.0.0.1|*.ui.edu|*.ui.ac.id</nonProxyHosts>
+    </proxy>
+  </proxies>
+</settings>
